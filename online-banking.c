@@ -35,7 +35,7 @@ int main(){
     user.balance=0;
     
     stpcpy(filename,user.phoneNo);
-    fp=fopen(strcat(filename,".dat"),"w");
+    fp=fopen(strcat(filename,".dat"),"w");//File titles are opened with the name of account owner numbers.
     fwrite(&user,sizeof(user),1,fp);
     
     if(fwrite != 0){
