@@ -25,4 +25,4 @@ This project is a simple banking application that allows users to register accou
 
 ## 📝 License
 
-This project is licensed under the MIT License. For more details, please refer to the `LICENSE` file.
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
